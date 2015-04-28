@@ -6,5 +6,6 @@ class ProblemSolver
   end
 
   def solve_tough_problem(arg, arg2, arg3, arg4)
+    return if arg4.nil?
   end
 end
