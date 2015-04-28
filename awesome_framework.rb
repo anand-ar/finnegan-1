@@ -11,6 +11,9 @@ class AwesomeFramework
     call_it_a_day
   end
 
+  def be_awesomer_than_ever
+  end
+
   def stand_on_one_leg
   end
 
